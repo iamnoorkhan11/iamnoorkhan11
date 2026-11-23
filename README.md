@@ -18,7 +18,7 @@ I'm a **Semantic SEO and AI search strategist** with a software engineering back
 
 - 🧭 **Now:** leading semantic SEO, GEO and AEO strategy, and writing about AI search at [iamnoorkhan.com](https://iamnoorkhan.com/blog)
 - 🎙️ **Hosting:** the [Noor Khan Podcast](https://iamnoorkhan.com/podcast), conversations with SEO and AI search practitioners
-- 🎓 **Studying:** MSc Computer Science · Semantic SEO certified (Koray Tuğberk GÜBÜR)
+- 🎓 **Background:** BS Software Engineering · Semantic SEO certified (Koray Tuğberk GÜBÜR)
 - 💼 **Open to:** senior SEO, SEO lead and AI search roles, fully remote (GMT+5)
 
 ### 📈 Selected results
