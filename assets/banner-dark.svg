@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Noor Khan: Semantic SEO and AI Search Strategist</title>
+  <desc id="desc">Banner with an entity graph connecting Semantic SEO to entities, topical maps, search intent, schema, AI Overviews and ChatGPT.</desc>
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#0a66c2" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#0a66c2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="rgba(238,243,249,0.05)" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0a66c2"/><stop offset="100%" stop-color="#4b9dea"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .node{animation:pulse 3.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .halo{animation:halo 3.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .flow{animation:flow 2.4s linear infinite}
+    .fade{animation:fade 1s ease-out both}
+    .fade2{animation:fade 1s .25s ease-out both}
+    .fade3{animation:fade 1s .5s ease-out both}
+    @keyframes pulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.35);opacity:.75}}
+    @keyframes halo{0%,100%{transform:scale(1);opacity:.15}50%{transform:scale(1.5);opacity:0}}
+    @keyframes flow{to{stroke-dashoffset:-24}}
+    @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    @media (prefers-reduced-motion:reduce){.node,.halo,.flow,.fade,.fade2,.fade3{animation:none}}
+  </style>
+  <rect width="1280" height="340" rx="18" fill="#0d1117"/>
+  <rect width="1280" height="340" rx="18" fill="url(#grid)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1280" height="5" fill="url(#bar)"/>
+  <g>
+    <line class="edge flow" style="animation-delay:0.00s" x1="990" y1="170" x2="860" y2="78" stroke="rgba(75,157,234,0.35)" stroke-width="1.6" stroke-dasharray="6 6"/>
+    <line class="edge flow" style="animation-delay:0.37s" x1="990" y1="170" x2="1135" y2="70" stroke="rgba(75,157,234,0.35)" stroke-width="1.6" stroke-dasharray="6 6"/>
+    <line class="edge flow" style="animation-delay:0.74s" x1="990" y1="170" x2="1185" y2="190" stroke="rgba(75,157,234,0.35)" stroke-width="1.6" stroke-dasharray="6 6"/>
+    <line class="edge flow" style="animation-delay:1.11s" x1="990" y1="170" x2="1110" y2="282" stroke="rgba(75,157,234,0.35)" stroke-width="1.6" stroke-dasharray="6 6"/>
+    <line class="edge flow" style="animation-delay:1.48s" x1="990" y1="170" x2="905" y2="285" stroke="rgba(75,157,234,0.35)" stroke-width="1.6" stroke-dasharray="6 6"/>
+    <line class="edge flow" style="animation-delay:1.85s" x1="990" y1="170" x2="800" y2="190" stroke="rgba(75,157,234,0.35)" stroke-width="1.6" stroke-dasharray="6 6"/>
+    <line class="edge" style="animation-delay:2.22s" x1="860" y1="78" x2="1010" y2="52" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:2.59s" x1="1010" y1="52" x2="1135" y2="70" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:2.96s" x1="1135" y1="70" x2="1235" y2="120" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:3.33s" x1="1235" y1="120" x2="1185" y2="190" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:3.70s" x1="1185" y1="190" x2="1240" y2="262" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:4.07s" x1="1240" y1="262" x2="1110" y2="282" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:4.44s" x1="1110" y1="282" x2="990" y2="310" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:4.81s" x1="990" y1="310" x2="905" y2="285" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:5.18s" x1="905" y1="285" x2="800" y2="190" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:5.55s" x1="800" y1="190" x2="760" y2="112" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:5.92s" x1="760" y1="112" x2="860" y2="78" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:6.29s" x1="860" y1="78" x2="800" y2="190" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+    <line class="edge" style="animation-delay:6.66s" x1="1135" y1="70" x2="1185" y2="190" stroke="rgba(75,157,234,0.35)" stroke-width="1"/>
+  </g>
+  <g>
+    <circle cx="990" cy="170" r="23" fill="#4b9dea" opacity="0.15" class="halo"/><circle cx="990" cy="170" r="13" fill="#4b9dea" class="node" style="animation-delay:0.00s"/><text x="990" y="208" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#eef3f9">Semantic SEO</text>
+    <circle cx="860" cy="78" r="7" fill="#4b9dea" class="node" style="animation-delay:0.45s"/><text x="860" y="62" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="rgba(238,243,249,0.78)">Entities</text>
+    <circle cx="1135" cy="70" r="7" fill="#4b9dea" class="node" style="animation-delay:0.90s"/><text x="1135" y="54" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="rgba(238,243,249,0.78)">Topical Maps</text>
+    <circle cx="1185" cy="190" r="7" fill="#4b9dea" class="node" style="animation-delay:1.35s"/><text x="1185" y="216" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="rgba(238,243,249,0.78)">AI Overviews</text>
+    <circle cx="1110" cy="282" r="7" fill="#4b9dea" class="node" style="animation-delay:1.80s"/><text x="1110" y="308" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="rgba(238,243,249,0.78)">ChatGPT</text>
+    <circle cx="905" cy="285" r="7" fill="#4b9dea" class="node" style="animation-delay:2.25s"/><text x="905" y="311" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="rgba(238,243,249,0.78)">Schema</text>
+    <circle cx="800" cy="190" r="7" fill="#4b9dea" class="node" style="animation-delay:2.70s"/><text x="800" y="216" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="rgba(238,243,249,0.78)">Search Intent</text>
+    <circle cx="1010" cy="52" r="5" fill="#4b9dea" class="node" style="animation-delay:3.15s"/>
+    <circle cx="1235" cy="120" r="4" fill="#4b9dea" class="node" style="animation-delay:3.60s"/>
+    <circle cx="760" cy="112" r="4" fill="#4b9dea" class="node" style="animation-delay:4.05s"/>
+    <circle cx="1240" cy="262" r="4" fill="#4b9dea" class="node" style="animation-delay:4.50s"/>
+    <circle cx="990" cy="310" r="4" fill="#4b9dea" class="node" style="animation-delay:4.95s"/>
+  </g>
+  <g transform="translate(72 0)">
+    <text class="fade" x="0" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" letter-spacing="3" fill="#eef3f9">NOOR KHAN</text>
+    <text class="fade2" x="2" y="176" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#4b9dea">Semantic SEO &amp; AI Search Strategist</text>
+    <text class="fade3" x="2" y="222" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="rgba(238,243,249,0.62)">Topical authority · GEO &amp; AEO · Technical SEO · Content strategy</text>
+    <rect class="fade3" x="2" y="252" width="236" height="38" rx="19" fill="none" stroke="#4b9dea" stroke-width="1.5"/>
+    <circle class="fade3 node" cx="24" cy="271" r="5" fill="#2ea043"/>
+    <text class="fade3" x="38" y="277" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#eef3f9">Open to senior SEO roles</text>
+  </g>
+</svg>
